@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fabf5ca2-3df3-4a2a-b453-f3e8ff3b8bb1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YiQHFUlJzLjTVgz8hxxVz28JXn" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="112" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="258" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="it.unimol.gioco" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="videogioco1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TutorialMode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.unimol.gioco.TutorialMode" />
+      <module name="videogioco1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SurvivalModeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="videogioco1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unimol.gioco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unimol.gioco" />
+      <option name="MAIN_CLASS_NAME" value="it.unimol.gioco.SurvivalModeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SurvivalModeTest.calcolaPunteggio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="videogioco1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unimol.gioco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unimol.gioco" />
+      <option name="MAIN_CLASS_NAME" value="it.unimol.gioco.SurvivalModeTest" />
+      <option name="METHOD_NAME" value="calcolaPunteggio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SurvivalModeTest" />
+        <item itemvalue="JUnit.SurvivalModeTest.calcolaPunteggio" />
+        <item itemvalue="Application.TutorialMode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fabf5ca2-3df3-4a2a-b453-f3e8ff3b8bb1" name="Default Changelist" comment="" />
+      <created>1583422844044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583422844044</updated>
+      <workItem from="1583422846808" duration="3095000" />
+      <workItem from="1583440071153" duration="3551000" />
+      <workItem from="1583747876107" duration="26000" />
+      <workItem from="1584011829476" duration="1646000" />
+      <workItem from="1584013497420" duration="43000" />
+      <workItem from="1584030334017" duration="3926000" />
+      <workItem from="1584039747114" duration="319000" />
+      <workItem from="1584115205395" duration="47000" />
+      <workItem from="1585575293390" duration="1111000" />
+      <workItem from="1586090752908" duration="599000" />
+      <workItem from="1586355417603" duration="623000" />
+      <workItem from="1591052903979" duration="154000" />
+      <workItem from="1591214941129" duration="8835000" />
+      <workItem from="1591290182142" duration="40000" />
+      <workItem from="1591348430799" duration="7000" />
+      <workItem from="1591384473740" duration="2586000" />
+      <workItem from="1591473920002" duration="2965000" />
+      <workItem from="1591558856530" duration="5065000" />
+      <workItem from="1591648696682" duration="491000" />
+      <workItem from="1591731717373" duration="4610000" />
+      <workItem from="1591815196808" duration="371000" />
+      <workItem from="1591888400525" duration="4558000" />
+      <workItem from="1591973172434" duration="2178000" />
+      <workItem from="1591997145700" duration="7511000" />
+      <workItem from="1592040092543" duration="3767000" />
+      <workItem from="1592165065893" duration="7247000" />
+      <workItem from="1592225301720" duration="3831000" />
+      <workItem from="1592249735718" duration="9420000" />
+      <workItem from="1592314129263" duration="641000" />
+      <workItem from="1592336623536" duration="4850000" />
+      <workItem from="1592389966979" duration="250000" />
+      <workItem from="1592399349782" duration="2917000" />
+      <workItem from="1592490575678" duration="1680000" />
+      <workItem from="1592509717473" duration="2300000" />
+      <workItem from="1592548630581" duration="23890000" />
+      <workItem from="1594658833377" duration="7000" />
+      <workItem from="1596041282410" duration="842000" />
+      <workItem from="1596962319313" duration="94000" />
+      <workItem from="1598103932622" duration="96000" />
+      <workItem from="1598104374710" duration="1269000" />
+      <workItem from="1599489229195" duration="5000" />
+      <workItem from="1601925781957" duration="3000" />
+      <workItem from="1603183243087" duration="38000" />
+      <workItem from="1603184646515" duration="9000" />
+      <workItem from="1603188038293" duration="83000" />
+      <workItem from="1603701759962" duration="17000" />
+      <workItem from="1603717500767" duration="5000" />
+      <workItem from="1607896977825" duration="25000" />
+      <workItem from="1613224241089" duration="96000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
